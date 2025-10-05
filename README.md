@@ -1,6 +1,6 @@
-🇮🇳 Telugu Aksharamala Tracing Slate (Blackboard Edition)
-✍️ Overview
-This project is an interactive, single-page web application designed to help beginners and children practice writing the Telugu alphabet (Aksharamala). It simulates a traditional blackboard or slate, providing a fun and tactile digital environment for tracing both vowels (అచ్చులు - Achulu) and consonants (హల్లులు - Hallulu).
+✍️ Tracing Pad
+
+This project is an interactive, single-page web application designed to help beginners and children practice writing the Telugu alphabet (Aksharamala). Telugu is the primary focus language currently, but the app is built to support multiple languages in the future. It simulates a traditional blackboard or tracing pad, providing a fun and tactile digital environment for tracing both vowels (అచ్చులు - Achulu) and consonants (హల్లులు - Hallulu).
 
 The entire application is contained within a single HTML file, leveraging the Canvas API for drawing and Tailwind CSS for modern, responsive styling.
 
@@ -51,3 +51,9 @@ Color Picker: Allow users to change the chalk color.
 Erase Tool: Implement an "eraser" function to remove parts of the drawing without clearing the entire slate.
 
 Tracing Path Guides: Programmatically show stroke order/direction on the guide character for better learning.
+
+Language Expansion: Expansion to include tracing guides for other languages, starting with English and Hindi.
+
+
+
+
